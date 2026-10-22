@@ -1,0 +1,18 @@
+Háttér 
+Border
+Margin
+Padding
+Szövegformázás
+Dimenziók
+Listaelemek
+Table
+Display
+Position
+z-Index
+Overflow
+Float
+Opacity
+Important
+Matematika
+Media Query
+FlexBox

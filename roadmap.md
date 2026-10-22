@@ -1,0 +1,12 @@
+- Webalkalmazások mûködési elvei, Alapfogalmak, Git & GitHub workflow
+- Webes struktúra - HTML, SEO-optimalizálás
+- Stílus és reszponzivitás - CSS, Bootstrap, Tailwind CSS, UI trendek
+- JavaScript alapok - ES6+, DOM-kezelés, event handling
+- Frontend eszközök és API-k - Fetch API, AJAX, helyi tárolás, moduláris JS
+- Komponensalapú fejlesztés - React, Next.js
+- UI keretrendszerek és stílus - Tailwind CSS, Material UI
+- Backend fejlesztés - PHP, MySQL, Laravel
+- Szerveroldali JavaScript - Node.js, Express, MongoDB alapok
+- DevOps és AI integráció - Docker, CI/CD, OpenAI API-k
+- Fullstack PHP projektek - Laravel és MySQL valós alkalmazásokban
+- Záró projekt - Deployment, portfólióépítés
